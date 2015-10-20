@@ -1,0 +1,24 @@
+{
+  "name": "dative",
+  "description": "dat-drive your package management with",
+  "keywords": [
+    "dat",
+    "cli",
+    "package",
+    "tool",
+    "npm",
+    "install",
+    "update"
+  ],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orlin/dative.git"
+  },
+  "author": "Orlin M Bozhinov <om@soundsapiens.com>",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT"
+}
